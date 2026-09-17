@@ -136,7 +136,7 @@ with tab_home:
 	
 	
 		if j_details["Verified"] == 0:
-			st.warning("Discount / waiver unclear, plase verify!", icon="📕")
+			st.warning("Discount / waiver unclear, please verify!", icon="📕")
 		elif j_details["Verified"] == 1:
 			st.success("APC discount details found!",icon="📕")
 		elif j_details["Verified"] == 2:
