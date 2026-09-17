@@ -64,7 +64,7 @@ Please contact Erin [:mailbox:](https://www.nipissingu.ca/users/erin-moorhead) t
 HELP_MESSAGE = """
 
 
-_Need more help:question: Contact Erin [:mailbox:]
+_Need more help:question: Contact Erin [:mailbox:] (https://www.nipissingu.ca/users/erin-moorhead)
 """
 
 ### Other Configs
