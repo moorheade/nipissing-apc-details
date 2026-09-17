@@ -56,7 +56,7 @@ Good question!
 
 It probably means we do not have a discount for that title. We are keeping track of titles we have agreements for, if we don't specifically know the status of a title, discount or not, we won't list it here. 
 
-Please contact Tim [:mailbox:](https://researchguides.library.brocku.ca/prf.php?id=2bbc13f2-7cd6-11ed-8528-0266e2e2286e) to discuss this more.
+Please contact Erin [:mailbox:](https://www.nipissingu.ca/users/erin-moorhead) to discuss this more.
 
 """
 
