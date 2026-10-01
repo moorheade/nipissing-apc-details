@@ -57,7 +57,7 @@ def get_journal_details(issn,verified,type):
 
     #verified, accurate, affirmative
     elif verified == 1:
-    	detail_string += "✅ Usual publisher discount applies\n\n"
+    	detail_string += "✅ Usual publisher discount applies. We try to make this information as accurate as possible, but please double check this information from this link\n\n"
     #verfied, accurate, negative
     elif verified == 2:
     	detail_string += "⛔ Discount does not apply to this title\n\n"
