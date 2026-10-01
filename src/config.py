@@ -16,7 +16,7 @@ PREAMBLE = """
 # Article Processing Charge Agreements
 Below are details about what Article Processing Charge (APC) discounts and waivers are available to members of the Nipissing community. 
 
- :spiral_calendar: **Information Last Updated - September 17, 2026.**
+ :spiral_calendar: **Information Last Updated - October 01, 2026.**
 
 
 """
