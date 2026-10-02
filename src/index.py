@@ -51,9 +51,9 @@ def get_journal_details(issn,verified,type):
     	detail_string += "❓ Exact discount status of title is unclear! Please see [journal homepage]("+oalex_item['homepage_url']+") to make sure journal matches the _Publisher Discount_.\n\n"
     	
     	if not oalex_item['is_oa']:
-    		detail_string += "\n\n :arrow_right: OpenAlex thinks this title is Open Access."
+    		detail_string += "\n\n :arrow_right: Our system thinks this title is Open Access."
     	else:
-    		detail_string += "\n\n :arrow_right: OpenAlex does not think this title is Open Access."
+    		detail_string += "\n\n :arrow_right: Our system does not think this title is Open Access."
 
     #verified, accurate, affirmative
     elif verified == 1:
